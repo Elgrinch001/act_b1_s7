@@ -25,9 +25,9 @@ Implementar un sistema de herencia en Java aplicando los conceptos aprendidos en
 
    ```json
    {
-       "identificacion": "1234567890",
-       "nombres": "Tu Nombre Completo",
-       "apellidos": "Tus Apellidos Completos", 
+       "identificacion": "1038869598",
+       "nombres": "Santiago",
+       "apellidos": "Bohorquez Saldaña", 
        "grupo": "b1-martes"
    }
    ``` 
